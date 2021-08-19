@@ -1,36 +1,62 @@
-## Welcome to GitHub Pages
+<h1>Welcome to my Dream Project of helping 1.5B+ students</h1>  
 
-You can use the [editor on GitHub](https://github.com/ayay-ayush/edu/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We very well know this Education System is completely broken - from **learning useless trigonometric functions** to **studying the entire night for tomorrow's exam just to forget everything after that.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Schools and Colleges are focused just on *"fees"*, *"marks"* and *"a useless paper called degree"*.
+I myself being a high school student, knows and understands the pain of 1.5B+ students all around the globe!  
 
-### Markdown
+Seeing every students pain suffering with stress and anxiety my only motto now on is: **either crib or fix."** - and I have chosen to fix the system, even if it takes years to built the best infrastructure and community.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<h2>My Motivation?</h2>
+
+"MY" motivations are all around me!
+```markdown
+- **Every single comment in every video related to Education System on youtube and every other platform".**  
+- **My younger sister who says she "hates algebra" and sadly asks "why can't kids choose those subjects which they love the most?"**  
+- **Every single student who cries everyday thinking they are "useless" just because they can't score a hundred in every subject like the topper guy.**  
+- **The tag stuck on students' face that making use of technology like mobiles and laptops are bad for a student.**  
+- **Every single college passout engineering student who is jobless since they weren't "skilled enough" for any job - ironically, even after studying for 20 years!**  
+- **Every kid who get rejected to spend anything on skill builiding courses with the tag of "you aren't studying enough!"**  
+- **Every student who is tired of being compared to the neighbourhood studious child.**  
+- **Every student who asks "Is this gonna be on test?"**  
+- *... and the list goes on!*
+```
+<h2>Problems persisting since Industrial age</h2>
 
 ```markdown
-Syntax highlighted code block
+1. **Rote learning**
+  - We have progressed with time; however, we still have not been able to move away from rote learning.
+  The students aren't actually "taught"; but are "fed" using spoons and forced to swallow down the throat and during exam, 
+  the student who regurgitate most of the information - is only awarded.
+  
+2. **Worst Evaluation system**
+  - We all have heard "Marks doesn't mean anything" or "A single paper can't decide your future".
+  Well, if these all are true, and nothing good except stress and mental pressure comes out of "system of Marks" 
+  - then we should definitely abandon this system and build up a complete new system of evaluation.
 
-# Header 1
-## Header 2
-### Header 3
+3. **Better training of Educators before recruitment**
+  - Teachers play the most important role in schools and hence, they should be given the best of class training.
+  After all, they are shaping the **future of the nation, the children.** 
+  Untrained educators who only know how to ditch in assignments everyday without teaching anything is worthless!
 
-- Bulleted
-- List
+4. **Introduction of technology**
+  - We are living the renaissance of technology and in such a state, technology and education system cannot be kept apart. 
+  Students must be taught about technology right from the early years of their education so that it does not come like an alien thing in their later times.
+  Instead of distancing every child from technologies, saying it'll destroy their life - must teach them how to make the most use of it. 
 
-1. Numbered
-2. List
+5. **No Personalized education**
+  - Education needs to realize that the absorption power of every student cannot be the same. 
+  Hence, the teaching method also cannot remain the same for every student in a class of 40 students.
+  Some students have faster learning pace and some are slow. Teachers must have a keen eye on observing each of their students.
+  Assuming everyone to learn everything in a single night for tomorrow's surprise test is totally absurd - this makes students dull and un-motivated.
 
-**Bold** and _Italic_ and `Code` text
+```
+
+```markdown
+## Code Snippet:
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ayay-ayush/edu/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
