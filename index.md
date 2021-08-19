@@ -51,6 +51,18 @@ Seeing every students pain suffering with stress and anxiety my only motto now o
   Assuming everyone to learn everything in a single night for tomorrow's surprise test is totally absurd - this makes students dull and un-motivated.
 
 ```
+<h2>How I would tackle them:</h2>
+
+As far as the brain of this 16 year old kid (ie, me) could figure and churn out every single details of the problems and its solutions, here are my key insights not only on problems - but more on its effective Solutions!
+
+(PS. I could do the world out of it once I get really good people in my team to work out for every single solution together. I am currently actively looking for such people who resonate with my idea to bring about a positive change in the world! Currently I have a rough framework of what to do in days to come in my notebook spacing more than 21 pages of research of problems and solutions with sheer dedication and I'll try to type out every single idea of mine in this page.)  
+
+
+```markdown
+1. Tackling useless curriculum
+  - I aim to make the future Education System as future ready as possible and that can't be done without restructuring of the backbone of schools - Curriculum.
+   The curriculum must be designed [continue from here..]
+```
 
 ```markdown
 ## Code Snippet:
