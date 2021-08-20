@@ -1,4 +1,4 @@
-<h1>Welcome to my Dream Project of helping 1.5B+ students</h1>  
+<h1><b>Welcome to my Dream Project of helping 1.5B+ students</b></h1>  
 
 We very well know this Education System is completely broken - from **learning useless trigonometric functions** to **studying the entire night for tomorrow's exam just to forget everything after that.**
 
@@ -6,8 +6,9 @@ The Schools and Colleges are focused just on *"fees"*, *"marks"* and *"a useless
 I myself being a high school student, knows and understands the pain of 1.5B+ students all around the globe!  
 
 Seeing every students pain suffering with stress and anxiety my only motto now on is: **either crib or fix."** - and I have chosen to fix the system, even if it takes years to built the best infrastructure and community.
+_____
 
-<h2>My Motivation?</h2>
+<h2><b>My Motivation?</b></h2>
 
 "MY" motivations are all around me!
 ```markdown
@@ -21,7 +22,10 @@ Seeing every students pain suffering with stress and anxiety my only motto now o
 - **Every student who asks "Is this gonna be on test?"**  
 - *... and the list goes on!*
 ```
-<h2>Problems persisting since Industrial age</h2>
+____
+
+
+<h2><b>Problems persisting since Industrial age:</b></h2>
 
 ```markdown
 1. **Rote learning**
@@ -53,7 +57,9 @@ Seeing every students pain suffering with stress and anxiety my only motto now o
 6. **And the list never stops..**  
 
 ```
-<h2>How I would tackle them:</h2>
+_____
+
+<h2><b>How I would tackle them:</b></h2>
 
 As far as the brain of this 16 year old kid (ie, me) could figure and churn out every single details of the problems and its solutions, here are my key insights not only on problems - but more on its effective Solutions!
 
@@ -103,11 +109,36 @@ As far as the brain of this 16 year old kid (ie, me) could figure and churn out 
    Students need to learn how to earn money, apply for loans, knowning basic laws about your country, how to express their feelings and thoughts and become confident. Respecting every person as a human and not on the basis of race or colour must be at highest priority - and quality teachers are the ones who'll do so!
 
 10. **Abandoning Tutions**
-   - Ever wondered why students join tutions? - One line answer is = "OUR SCHOOLS AREN'T SKILLED ENOUGH". If the schools in this world were skilled enough, then no student would have a need to attend another 6 hour of useless coachings charging tons of money from every parent.
-   I want my kid's as well as every single student's Monday to be a start of new revolution and not a sad feeling of "Ah, again schools!"
+   - Ever wondered why students join tutions? - One line answer is = "OUR SCHOOLS AREN'T SKILLED ENOUGH". If the schools in this world were skilled enough, then no student would have a need to attend another 6 hour of useless coachings charging tons of money from every parent. School Teachers start Tutions because they aren't paid enough in schools
+   I want my kid's as well as every single student's Monday to be a start of new revolution and not a sad feeling of "Ah, again schools!"   
+   I Aim not to let students face what I and millions other students are facing now!
 
 ```
-[continue here..]
+> Children don't like schools because schools were designed to train 'workers with perfection' and not "children" - they feel trapped together with hundreds of creative minds who all will eventually become the same.  
+#### But I've pledged to change it.
+ ____
+
+<h2><b>My Goals:</b></h2>
+
+### <i>Disclaimer: "My goals aren't restricted to the points below! I have infinitely large number of ideas to work on."</i>
+ 
+ - Get students out of the closed 4-wall-room "schools" - which 'claim to train students' for the future, but ironically, never letting them go out of class to explore even air!
+ - Revolutionizing the entire broken Education System since government never seems to care about "students" - *our future*!
+ - Making every schools fully digitally equipped.
+ - Personlized Curriculum based on every students interest in consideration.
+ - No more strict timetables and letting students explore as much as they can. 
+ - No marks-system of evaluating a kid (which does nothing but give satisfaction to school's achievements and demoralizing every kid).
+ - Imparting cultural skills, practical training, respecting vocational jobs, preparation for living life happily (not spending it to fulfill other's dream) and most important - "humanity".
+ - Understanding every student's actual capabilities and developing and nurturing the same.
+ - Building autonomy among students and creating not a 'room' - but a 'world' full of passion and dreams!
+ - Get more and more talented people from all around world and employ them to teach local culture (which are at the verge of extinction) and real life skills to solve real life problems.
+ - Building up an entire new and efficient infrastructure of transportation (one of my many more ideas)
+ - Reading the disclaimer written by me again and again ;-)
+
+
+#### Well, I have countless ideas to execute and its literally impossible for me to type out everything here! 
+#### Till now, I explained what's the problem being faced, how and what I plan to execute, whats my motivation and what is my clear future goals but the main thing - What will be the business model? 
+
 
 ```markdown
 ## Code Snippet:
