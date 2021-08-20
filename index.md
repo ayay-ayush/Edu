@@ -6,6 +6,7 @@ The Schools and Colleges are focused just on *"fees"*, *"marks"* and *"a useless
 I myself being a high school student, knows and understands the pain of 1.5B+ students all around the globe!  
 
 Seeing every students pain suffering with stress and anxiety my only motto now on is: **either crib or fix."** - and I have chosen to fix the system, even if it takes years to built the best infrastructure and community.
+
 _____
 
 <h2><b>My Motivation?</b></h2>
@@ -57,6 +58,9 @@ ____
 6. **And the list never stops..**  
 
 ```
+
+> <h3>"Personal responsibility is not only undervalued but actually discouraged by the standard classroom model, with its enforced passivity and rigid boundaries of curriculum and time."</h3>
+>  -  __Sal Khan__
 _____
 
 <h2><b>How I would tackle them:</b></h2>
@@ -114,7 +118,7 @@ As far as the brain of this 16 year old kid (ie, me) could figure and churn out 
    I Aim not to let students face what I and millions other students are facing now!
 
 ```
-> Children don't like schools because schools were designed to train 'workers with perfection' and not "children" - they feel trapped together with hundreds of creative minds who all will eventually become the same.  
+> <h3>Children don't like schools because schools were designed to train 'workers with perfection' and not "children" - they feel trapped together with hundreds of creative minds who all will eventually become the same. </h3> 
 #### But I've pledged to change it.
  ____
 
@@ -135,17 +139,52 @@ As far as the brain of this 16 year old kid (ie, me) could figure and churn out 
  - Building up an entire new and efficient infrastructure of transportation (one of my many more ideas)
  - Reading the disclaimer written by me again and again ;-)
 
-
+_____
 #### Well, I have countless ideas to execute and its literally impossible for me to type out everything here! 
-#### Till now, I explained what's the problem being faced, how and what I plan to execute, whats my motivation and what is my clear future goals but the main thing - What will be the business model? 
+#### Till now, I explained what's the problem being faced, how and what I plan to execute, whats my motivation and what is my clear future goals but the main thing - What will be the Business Model? 
 
+____
+
+<h2><b>Business Model - How I plan to execute:</b></h2>  
+
+I am still a 16 year kid who wish not to crib about our education system but also fix it permanently for every future generations!
+I have a real passion to something that will bring a change in not one life, but life of millions!
+
+### <i><b>Disclaimer:</b> "This is just a prototype on which I'm working and EVERY SINGLE SUGGESTION would mean a world to me."</i>
 
 ```markdown
-## Code Snippet:
 
-[Link](url) and ![Image](src)
+- Building many schools from ground up would require too much capital and law agreements. I can't imagine spending decades to establish a firm. So this is how my rough model goes to work:
+- I've decided to create a Chain or Franchise of Acadamies (I think I'd be the first founder to plan most of the things without even before deciding a name! Well, I'll figure that out later.)  
+- That'd work on the basis of we giving the entire curriculum, the schools would make us of digital equipments, we'd personally inspect the area/land/franchisee before giving out rights.  
+- Most glancing feature would be that we'll be funding a small amount to the franchisee(s) in addition to their own investment.
+- We'd recruit teachers only after complete overall training of them, we'd employ real artists/talents to teach students in every possible field from basic skills to advanced skills as well which will be exptremely useful in their real life.
+- or I could even start builidng schools on my own - I don't really know 😅
+
+> **NOTE: All these are the rough framework thought (and still thinking..) in my 16 yr small mind. I can't imagine what it'd be once I get some great friends/guides.**
+
 ```
 
-### Support or Contact
+____
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<h2><b>Some little feelings/thoughts of mine</b></h2>
+
+<h3>I want to work with really smart people, and visionary leaders and meet many of my inspirations. But the issue is that, EVERY SINGLE STUDENT/FRIENDS are busy competing for ranks and marks - which makes me totally alone to share my ideas with anyone.  
+ I've spent months figuring out every single problem, researching and laying out possible solutions of it and how could I add value to almost everyone who joins me in this big change. I'd love working in group with people who are more experienced than me - but thats where this system separates me out from them - I feel like a person who's stuck in a rat race among all the same people who never really care anything more than marks.</h3>
+____
+
+> <h2><b>I don't know whether this venture of mine would succeed or not - But what I know is Either this would be revolutionary or I'd end up being another lost dream into the ocean of engineers in India.</b></h2>
+
+____
+
+<h2><b>Contact</b></h2>
+
+<h3>I have a Twitter account without any follower: <a href="www.twitter.com/@itzme_ayush">@itzme_ayush</a> <br>
+Anyone could message me, I just want some <b>like-minded people</b>.</h3> 
+
+____
+
+> <h2><b>"A BAD SYSTEM WILL KILL A GOOD PERSON EVERYTIME"</b></h2>
+>> OR MAYBE I'LL CHANGE THE 'SYSTEM' THIS TIME
+
+____
