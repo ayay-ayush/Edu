@@ -100,9 +100,10 @@ As far as the brain of this 16 year old kid (ie, me) could figure and churn out 
 
 7. **Cultural Development**
    - Students need to be taught the culture and ethnics related to their respected areas and nation/states. Real culture has a lot of value in every individual's life. A child must feel connected to their homeland even when they aren't in that place and to do that, we need to embrace cultural development of kids and teach them real "ART".
-   ``` Afterall, EARTH without 'ART' is just 'EH' ```  
+    **Afterall, EARTH without 'ART' is just 'EH'**
+
    I have a BRILLIANT idea here as well! - People who are really skilled in these topics are working hard in villages to atleast survive for a day's meal - We could give them employment and a better living income in return of them teaching kids about the skills. It'll be a win-win for both kid as well as the person! 
-   [ Afterall, a smile is what I want on eveerybody's face :) ]
+   [ Afterall, a smile is what I want on everybody's face :) ]
 
 8. **Biological Knowledge and Safety**
    - I don't know why but people still have a profound taboo related to menstruation, sex and personal hygiene. Instead of fighting over religious ideas, we must incorporate these general life topics which will create issues in future due to lack of knowledge  among children.  
