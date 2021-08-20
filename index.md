@@ -180,7 +180,7 @@ ____
 
 <h2><b>Contact</b></h2>
 
-<h3>I have a Twitter account without any follower: <a href="www.twitter.com/@itzme_ayush">@itzme_ayush</a> <br>
+<h3>I have a Twitter account without any follower: <a href="https://twitter.com/itzme_ayush" target="_blank">@itzme_ayush</a> <br>
 Anyone could message me, I just want some <b>like-minded people</b>.</h3> 
 
 ____
