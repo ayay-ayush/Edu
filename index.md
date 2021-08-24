@@ -87,7 +87,7 @@ As far as the brain of this 16 year old kid (ie, me) could figure and churn out 
 5. **Main - Training of Parents**
    - In India, (and I say this with a very heavy heart..) when a kid is born, they only have 2 options on Earth - if boy, then "enginner" and if girl, then "doctor". Kids are made to believe that consistent First ranking in the class is the only way to have a bright future! I can't even blame our parents completely - the reason is that our parents were born in an era of poverty and without much opportunities, they could hardly earn their living, and all they want if a fixed income government job for their kids for a secure future but they don't understand is that the era has changed, and every kid has a burning flame inside them to do something really GREAT!   
 
-   I being a high school student - will just after 2 years will be forced to go to college and waste 4 years of life even when I have a clear belief that I could and will bring a Positive change in the entire world! And sadly, I being an indian student can't do much about it - If I told my parents that I want to change the world, the first reaction would be "laughter" with one single line: ``` "Ayush, we as middle class family, can never be rich and only "rich kids" or "god-gifted" children can only do great in this world, You go and study sincerely and get a good job in multinational company and take us on a world tour." ```  
+   I being a high school student - will just after 2 years will be forced to go to college and waste 4 years of life even when I have a clear belief that I could and will bring a Positive change in the entire world! 
    I am so much highly blessed that I atleast have a computer to type my dream out - but imagining kids of my age who don't even have a mobile phone for classes makes me so sad.  
 
    Parents need to understand the fact that the world is changing and imposing their own dreams on their really passionate kid will make him another lost case among the millions of dreams dying after every Parents-Teacher Meeting Day in India!
@@ -95,7 +95,7 @@ As far as the brain of this 16 year old kid (ie, me) could figure and churn out 
    Even though I am highly confident about my dream and dedicated to change the world, I won't be surprised if someday I am be told to delete all these dreams out of my mind and start preparing for the entrance exams and *I'd be another lost case of a really passionate kid who "wanted" to change the world but was made to believe that a job is the best thing for a "middle class child".*
 
 6. **Evaluation System**
-   - The sick mentality of "Only those succeed who score good marks" is deep rooted in the minds of every parent. Ironically, Marks were designed to evaluate students - but guess what, a student's future is decided by a evaluation system given out by other human! It simply means its deep rooted that we measure our success rates on the basis of comparision of other's success. Students seems to be satisfied with a 40% marks if the topper's marks is 45%. 
+   - The sick mentality of "Only those succeed who score good marks" is deep rooted in the minds of every parent. Ironically, Marks were designed to evaluate students - but guess what, a student's future is decided by a evaluation system given out by other human! It simply means its deep rooted that we celebrate our success rates on the basis of other's success. Students seems to be satisfied with a 40% marks if the topper's marks is 45%. 
    Better Evaluation System is one of the things which I'm working on along with lot of other things in my small sized mind! :)
 
 7. **Cultural Development**
@@ -155,12 +155,16 @@ I have a real passion to something that will bring a change in not one life, but
 
 ```markdown
 
-- Building many schools from ground up would require too much capital and law agreements. I can't imagine spending decades to establish a firm. So this is how my rough model goes to work:
+Building many schools from ground up would require too much capital and law agreements. I can't imagine spending decades to establish a firm. So this is how my rough model goes to work:
 - I've decided to create a Chain or Franchise of Acadamies (I think I'd be the first founder to plan most of the things without even before deciding a name! Well, I'll figure that out later.)  
 - That'd work on the basis of we giving the entire curriculum, the schools would make us of digital equipments, we'd personally inspect the area/land/franchisee before giving out rights.  
 - Most glancing feature would be that we'll be funding a small amount to the franchisee(s) in addition to their own investment.
 - We'd recruit teachers only after complete overall training of them, we'd employ real artists/talents to teach students in every possible field from basic skills to advanced skills as well which will be exptremely useful in their real life.
 - or I could even start builidng schools on my own - I don't really know 😅
+- But before all this what I think is to bring together every academies in remote areas of the country together on a online platform for the passionate kids to explore out every field they love and help the academy owners with digital presence, online fees payment facilities, bigger infrastructures, and every possible thing for everyone.
+- This bringing of academies will not only help students feel that running along with the rat race is worthless, but also make them feel connected to talented people from all around the country.
+- Arranging annual or semi annual fairs and calling the young talents and nurturing them to achieve something great on a global level.
+- 
 
 > **NOTE: All these are the rough framework thought (and still thinking..) in my 16 yr small mind. I can't imagine what it'd be once I get some great friends/guides.**
 
